@@ -14,7 +14,10 @@ const Nav = () => {
         </Link>
       </div>
       <div>
-        <p className='text-default-text'>xyz@gmail.com</p>
+        <h3 className='text-default-text'>TicketMaster</h3>
+      </div>
+      <div>
+        <p className='text-default-text'>YourName@gmail.com</p>
       </div>
     </nav>
   );
